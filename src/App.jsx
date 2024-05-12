@@ -11,9 +11,9 @@ function App() {
     <>
       <div className="p-12 bg-[#0F103F] h-auto">
         <div className="">
-          <h4 className="text-lg text-center text-zinc-300 md:text-3xl font-semibold">
-            Futuristic Coding Academy
-          </h4>
+          <div className="flex md:justify-start justify-center">
+            <img className="md:h-16 h-12" src="LOGO Blue white.svg" alt="" />
+          </div>
 
           <h1 className="leading-7 md:p-12 text-center p-2 pt-5 text-transparent bg-clip-text bg-gradient-to-r from-[#9DC6F9] to-[#9A7FF7] md:text-5xl text-2xl font-bold">
             <img
@@ -23,7 +23,7 @@ function App() {
             />
             MASTER THE ART OF JAVASCRIPT AND REACT JS BOOTCAMP IN 45 DAYS
             <img
-              className="animate__animated animate__infinite	infinite  animate__pulse animate__slow h-12 md:h-24 absolute top-[24.5%] md:top-44 right-14"
+              className="animate__animated animate__infinite	infinite  animate__pulse animate__slow h-12 md:h-24 absolute top-[28.5%] md:top-48 right-14"
               src="react.png"
               alt="reactjs_logo"
             />
@@ -31,7 +31,7 @@ function App() {
           <p className="text-center text-zinc-300 text-sm md:text-lg md:px-32 md:pt-0 pt-3">
             45-day offline classes, Monday to Friday. Test on Saturday and Doubt
             solving session on Sunday. Enroll Now! Rated 4.7⭐ by 50+ Students
-            in the last Batch. New Batch starts from 15 May🥳.️{" "}
+            in the last Batch. New Batch starts from 20 May🥳.️{" "}
           </p>
           <div className="flex flex-wrap-reverse justify-center md:pt-12">
             {/* <div className="pt-12 md:w-[60vw] ">
@@ -49,16 +49,16 @@ function App() {
                 ☑️ 45-Days offline classes
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7  bg-[#080820] text-white text-xs md:text-lg font-bold  text-center flex justify-center items-center rounded-xl p-2">
-                📽️ Recorded Lectures
+                ⌚ Timing 4:00 PM
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7 bg-[#080820] text-white text-xs md:text-lg font-bold  text-center flex justify-center items-center rounded-xl p-2">
-                🧑‍💻 500+ Students get internship
+                🧑‍💻 50+ Students get internship
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7 bg-[#B254FF] text-white text-xs md:text-lg font-bold  text-center flex justify-center items-center rounded-xl p-2">
                 💱 Course Language Hindi
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7  bg-[#B254FF] text-white md:text-lg font-bold  bg-gradient-to-r from-[#9DC6F9] to-[#9A7FF7] text-xs text-center flex justify-center items-center rounded-xl p-2">
-                Class Date 📆 15 May - 30 June, 2024
+                Class Date 📆 20 May - 5 June, 2024
               </div>
             </div>
           </div>
