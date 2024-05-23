@@ -31,7 +31,7 @@ function App() {
           <p className="text-center text-zinc-300 text-sm md:text-lg md:px-32 md:pt-0 pt-3">
             45-day offline classes, Monday to Friday. Test on Saturday and Doubt
             solving session on Sunday. Enroll Now! Rated 4.7⭐ by 50+ Students
-            in the last Batch. New Batch starts from 20 May🥳.️{" "}
+            in the last Batch. New Batch starts from 1 June🥳.️{" "}
           </p>
           <div className="flex flex-wrap-reverse justify-center md:pt-12">
             {/* <div className="pt-12 md:w-[60vw] ">
@@ -58,7 +58,7 @@ function App() {
                 💱 Course Language Hindi
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7  bg-[#B254FF] text-white md:text-lg font-bold  bg-gradient-to-r from-[#9DC6F9] to-[#9A7FF7] text-xs text-center flex justify-center items-center rounded-xl p-2">
-                Class Date 📆 20 May - 5 June, 2024
+                Class Date 📆 1 June - 15 July, 2024
               </div>
             </div>
           </div>
