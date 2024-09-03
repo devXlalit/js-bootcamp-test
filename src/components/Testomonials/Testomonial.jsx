@@ -12,7 +12,7 @@ const Testomonial = () => {
         <TestomonialCard url="testo_of_students (1).mp4" />
       </div>
       <div className="flex flex-wrap justify-center pt-12 gap-5">
-        <TestomonialChat img="WhatsApp Image 2024-05-07 at 15.09.38_ad1bb097.jpg" />
+        {/* <TestomonialChat img="WhatsApp Image 2024-05-07 at 15.09.38_ad1bb097.jpg" /> */}
         <TestomonialChat img="WhatsApp Image 2024-05-07 at 15.10.44_b8cb486c.jpg" />
         <TestomonialChat img="WhatsApp Image 2024-05-07 at 15.11.34_2e076d14.jpg" />
       </div>
