@@ -52,13 +52,13 @@ function App() {
                 ⌚ Timing 2:00 PM
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7 bg-[#080820] text-white text-xs md:text-lg font-bold  text-center flex justify-center items-center rounded-xl p-2">
-                🧑‍💻 50+ Students get internship
+                🧑‍💻 50+ Students are satisfied
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7 bg-[#B254FF] text-white text-xs md:text-lg font-bold  text-center flex justify-center items-center rounded-xl p-2">
                 💱 Course Language Hindi/English
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7  bg-[#B254FF] text-white md:text-lg font-bold  bg-gradient-to-r from-[#9DC6F9] to-[#9A7FF7] text-xs text-center flex justify-center items-center rounded-xl p-2">
-                Class Date 📆 4 Sept - 30 Dec, 2024
+                Class Date 📆 9 Sept - 30 Dec, 2024
               </div>
             </div>
           </div>
