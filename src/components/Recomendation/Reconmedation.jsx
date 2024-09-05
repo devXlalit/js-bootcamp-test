@@ -32,7 +32,7 @@ const Reconmedation = () => {
           }}
           className="animate__animated duration-300 animate__bounceIn animate__slower	3s animate__infinite shadow-indigo-300 shadow-sm hover:scale-105 rounded-lg font-semibold text-lg md:text-xl text-zinc-200  hover:text-zinc-100 duration-300 mt-12 py-4 px-10 md:py-4 md:px-96  bg-gradient-to-r from-[#9DC6F9] to-[#9A7FF7] hover:bg-gradient-to-r hover:from-[#9A7FF7] hover:to-[#9DC6F9] "
         >
-          Register Now Just for <s className="text-red">₹250</s> ₹99 😍
+          Pre-Register Now Just for <s className="text-red">₹250</s> ₹99 😍
         </button>
       </div>
     </div>

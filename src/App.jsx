@@ -9,7 +9,7 @@ import "animate.css";
 function App() {
   return (
     <>
-      <div className="p-12 bg-[#0F103F] h-auto">
+      <div className="p-12 bg-[#0F103F] h-auto" draggable>
         <div className="">
           <div className="flex md:justify-start justify-center">
             <img className="md:h-16 h-12" src="LOGO Blue white.svg" alt="" />
@@ -41,7 +41,7 @@ function App() {
           <p className="text-center text-zinc-300 text-sm md:text-lg md:px-32 md:pt-0 pt-3">
             120-day offline classes, Monday to Friday. Test on Saturday and
             Doubt solving session on Sunday. Enroll Now! Rated 4.7⭐ by 50+
-            Students in the last Batch. New Batch starts from 4 September🥳.️{" "}
+            Students in the last Batch. New Batch starts from 10 September🥳.️{" "}
           </p>
           <div className="flex flex-wrap-reverse justify-center md:pt-12">
             <div className="grid  grid-flow-row grid-cols-2 md:grid-cols-3 pt-12 gap-5">
@@ -58,13 +58,13 @@ function App() {
                 💱 Course Language Hindi/English
               </div>
               <div className="h-12 hover:scale-105 hover:drop-shadow-lg ease-in duration-300 md:p-7  bg-[#B254FF] text-white md:text-lg font-bold  bg-gradient-to-r from-[#9DC6F9] to-[#9A7FF7] text-xs text-center flex justify-center items-center rounded-xl p-2">
-                Class Date 📆 9 Sept - 30 Dec, 2024
+                Class Date 10 Sept - 30 Dec
               </div>
             </div>
           </div>
           <Testomonial />
           <Reconmedation />
-          {/* <Buildsection /> */}
+          <Buildsection />
           <YouGet />
           {/* <WhyCard /> */}
           <CertificateSection />
